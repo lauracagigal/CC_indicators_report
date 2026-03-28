@@ -1,8 +1,11 @@
 <h1 align="center">Palau Climate Change Monitor</h1>
 
-<img src="_static/figures/image_palau.jpg" width="1000">
-<br>
-<br>
+
+
+<div style="text-align: center;">
+  <img src="_static/figures/image_palau.jpg" width="700">
+</div>
+
 
 <p align="center">
 This report draws on the latest meteorological and oceanographic data and analyses to document observed long-term changes in climate in and around the Republic of Palau. 
@@ -15,11 +18,11 @@ https://lauracagigal.github.io/CC_indicators_report/
 </a>
 </p>
 
-
 <br>
-<figure style="text-align: center;">
+
+<div style="text-align: center;">
   <img src="_static/figures/logos_noaa_risa.png" width="500">
-</figure>
+</div>
 
 
 <p align="center">
