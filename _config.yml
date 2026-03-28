@@ -3,7 +3,7 @@
 
 title: CC Indicators
 author: Laura Cagigal
-# logo: resources/icons/icon.png
+logo: _static/figures/icon.png
 copyright                   : "2026"  # Copyright year to be placed in the footer
 only_build_toc_files : true
 
