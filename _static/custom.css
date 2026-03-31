@@ -1,3 +1,15 @@
+.bd-page-width {
+  max-width: 1400px;
+}
+
+.bd-main .bd-content .bd-article-container {
+  max-width: 1200px;
+}
+
+.bd-sidebar-secondary {
+  display: none;
+}
+
 /* =========================
    ROOT COLORS (THEME CONTROL)
 ========================= */
@@ -171,12 +183,14 @@ blockquote {
    ADMONITIONS (highlight boxes)
 ========================= */
 
-.admonition {
-  border-left: 5px solid var(--pst-color-primary);
-  background: #f5f9ff;
-  padding: 1em;
-  margin: 1.5em 0;
-  border-radius: 4px;
+.admonition.highlight {
+  border-left-color: #2a9d8f;
+  background: #c2ddd9;
+}
+
+.admonition.warning {
+  border-left-color: #e76f51;
+  background: #fff4f2;
 }
 
 /* =========================

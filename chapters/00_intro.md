@@ -1,5 +1,5 @@
-<h1 align="center">Palau Climate Change Monitor</h1>
-
+<!-- <h1 align="center">Palau Climate Change Monitor</h1> -->
+# Palau Change Monitor
 
 <div style="text-align: center;">
   <img src="../_static/figures/image_palau.jpg" width="500">

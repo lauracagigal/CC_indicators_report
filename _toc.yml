@@ -1,13 +1,9 @@
-# Table of contents
-# Learn more at https://jupyterbook.org/customize/toc.html
-
 format: jb-book
-root: chapters/intro.md
+root: chapters/00_intro.md
 
 chapters:
-  - file: chapters/findings_at_a_glance.md
-  # - file: chapters/atmosphere/1_greenhouse_gases/greenhouse_gases.md
-  # - file: chapters/atmosphere/2_temperature/temperature.md
-  #   sections:
-  #     - file: chapters/atmosphere/2_temperature/temperature_anomalies.md
+  - file: chapters/01_findings_at_a_glance.md
 
+  - file: chapters/atmosphere/index.md
+    sections:
+      - file: chapters/atmosphere/02_co2.md
