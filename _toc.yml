@@ -10,3 +10,7 @@ chapters:
       - file: chapters/atmosphere/03_air_temperature.md
       - file: chapters/atmosphere/04_rainfall.md
       - file: chapters/atmosphere/05_tropical_cyclones_.md
+
+  - file: chapters/ocean/index.md
+    sections:
+      - file: chapters/ocean/sea_level.md

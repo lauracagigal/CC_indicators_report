@@ -4,8 +4,8 @@
 title: CC Indicators
 author: Laura Cagigal
 logo: _static/figures/icon.png
-copyright                   : "2026"  # Copyright year to be placed in the footer
-only_build_toc_files : true
+copyright : "2026"  # Copyright year to be placed in the footer
+# only_build_toc_files : true
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
@@ -24,11 +24,11 @@ latex:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/lauracagigal/CC_indicators_report # Online location of your book
+  url: https://github.com/lauracagigal/CC_indicators_report
   branch: main  # Which branch of the repository should be used when creating links (optional)
 
-
 html:
+  logo: _static/figures/icon.png
   use_issues_button: true
   use_repository_button: true
   use_edit_page_button: true
@@ -36,9 +36,6 @@ html:
   # announcement: "In development!"
   comments:
     hypothesis: true
-  theme_options:
-    collapse_navigation: false
-    navigation_depth: 3
 
 # Parse and render settings
 parse:
@@ -58,7 +55,9 @@ sphinx:
     html_theme_options:
       collapse_navigation: false
       navigation_depth: 4
-      show_navbar_depth: 4    
+      show_navbar_depth: 4 
+      repository_url: https://github.com/lauracagigal/CC_indicators_report
+      use_repository_button: true
 
 launch_buttons:
   # Binder button
