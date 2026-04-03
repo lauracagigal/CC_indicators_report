@@ -6,4 +6,6 @@ chapters:
 
   - file: chapters/atmosphere/index.md
     sections:
-      - file: chapters/atmosphere/02_co2.md
+      - file: chapters/atmosphere/02_co2_.md
+      - file: chapters/atmosphere/03_air_temperature.md
+      - file: chapters/atmosphere/04_rainfall.md

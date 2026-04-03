@@ -1,9 +1,14 @@
 .bd-page-width {
-  max-width: 1400px;
+  max-width: 1200px;
 }
 
 .bd-main .bd-content .bd-article-container {
-  max-width: 1200px;
+  max-width: 1100px;
+}
+
+.bd-article {
+  max-width: 1100px;
+  margin: auto;
 }
 
 .bd-sidebar-secondary {
@@ -30,11 +35,24 @@ body {
   color: #222;
 }
 
-/* Justified paragraphs */
-p {
+/* justified paragraphs */
+.bd-article p {
   text-align: justify;
   text-justify: inter-word;
-  margin-bottom: 1em;
+  margin-bottom: 0.8em;
+  line-height: 1.6;
+  hyphens: auto;
+  text-align-last: left;   /* 👈 prevents ugly last line */
+}
+
+.bd-content p {
+  text-align: justify;
+  text-justify: inter-word;
+  margin-bottom: 0.5em;
+  line-height: 1.6;
+  hyphens: auto;
+  /* max-width: 75ch; */
+  text-align-last: left;
 }
 
 /* =========================
@@ -191,14 +209,6 @@ blockquote {
 .admonition.warning {
   border-left-color: #e76f51;
   background: #fff4f2;
-}
-
-/* =========================
-   PAGE WIDTH (report layout)
-========================= */
-
-.bd-content {
-  max-width: 900px;
 }
 
 /* =========================
