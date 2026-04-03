@@ -13,4 +13,4 @@ chapters:
 
   - file: chapters/ocean/index.md
     sections:
-      - file: chapters/ocean/sea_level.md
+      - file: chapters/ocean/06_sea_level.md
