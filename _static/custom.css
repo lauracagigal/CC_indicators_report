@@ -137,6 +137,20 @@ figcaption {
   height: auto;
 }
 
+.figure-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1em;
+  justify-items: center;
+  margin: 2em 0;
+}
+
+.figure-grid img {
+  width: 100%;
+  max-width: 600px;
+  border-radius: 6px;
+}
+
 /* =========================
    TABLES (report style)
 ========================= */
