@@ -30,7 +30,7 @@
   <p>Average, dry, extreme</p>
 </a>
 
-<a href="/CC_indicators_report/chapters/atmosphere/05_tropical_cyclones.html" class="dashboard-card">
+<a href="/CC_indicators_report/chapters/atmosphere/05_tropical_cyclones_.html" class="dashboard-card">
   <h3>Tropical cyclones</h3>
   <p>TCs in Palau, severe TCs</p>
 </a>
@@ -53,7 +53,7 @@
   <p>Temperature and DHW</p>
 </a>
 
-<a href="/CC_indicators_report/chapters/ocean/biochemistry.html" class="dashboard-card">
+<a href="/CC_indicators_report/chapters/ocean/biochemistry_.html" class="dashboard-card">
   <h3>Biochemistry</h3>
   <p>pH, chlorophyll, phytoplankton, O₂</p>
 </a>
