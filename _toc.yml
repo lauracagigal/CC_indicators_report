@@ -2,6 +2,7 @@ format: jb-book
 root: chapters/00_intro.md
 
 chapters:
+  - file: chapters/00_index.md
   - file: chapters/01_findings_at_a_glance.md
 
   - file: chapters/atmosphere/index.md
@@ -14,3 +15,5 @@ chapters:
   - file: chapters/ocean/index.md
     sections:
       - file: chapters/ocean/06_sea_level.md
+      - file: chapters/ocean/07_ocean_temperature.md
+      - file: chapters/ocean/08_biochemistry_.md

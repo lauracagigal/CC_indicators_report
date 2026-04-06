@@ -23,7 +23,7 @@ In addition to variability from place to place, sea level is highly variable ove
 Since the start of continuous satellite observations in 1993, absolute mean sea level in the vicinity of the Malakal tide gauge has risen by 17.34 cm (6.82 in) (Figure 13, 14). Over the same period, the relative sea level measured directly by the Malakal tide gauge increased by 12.26 cm (4.83 in).   These changes correspond to satellite-derived and station-derived rates of 5.78 mm (0.23 in) per year and 4.09 mm (0.16 in) per year, respectively. The difference between absolute (satellite-measured) and relative (tide-gauge-measured) sea level rise is largely attributable to vertical land motion at or near the gauge site.  Note that the sea level near Palau is rising faster than the global average.  Satellite observations indicate a current global mean sea level (GMSL) rise of 4.4 mm (0.17 in) per year (Willis et al., 2025).
 
 <figure style="text-align: center;">
-  <img src="../../_static/figures/F10_SeaLevel_map.png" width="500">
+  <img src="../../_static/figures/F10_SeaLevel_map.png" width="300">
 <figcaption> <em><strong>Figure 13.</strong> Sea Level Change from Satellite Altimetry. This map shows the (absolute) change in mean sea level in the vicinity of Palau from satellite altimetry since the beginning of the satellite record (1993-2022).  For comparison, the (relative) value for the tide gauge at Malakal is shown as a circle in the center of the figure.  The black line is the Palau EEZ.</em> </figcaption> </figure>
 
 <figure style="text-align: center;">
@@ -43,6 +43,15 @@ Notes: Sea level data has been deseasoned and detrended*
 
 Here, a *minor flood day* is defined as any day on which sea level at the Malakal tide gauge reaches or exceeds 30 cm above MHHW for at least one hour.  Flood days are tallied by storm year, defined here as the period from May through April of the following year.
 
-Over the period 1983-2024, minor flood frequency count increased at an average rate of 0.98 days per year (Figure 15).  This rate is statistically significant (p < 0.01) and is consistent with the observed rise in regional and local mean sea level.  Comparing decades, minor flood counts increased from 18 days per year (1983–1993) to 48 days per year (2013–2023).  This corresponds to a 167% increase (nearly threefold).  Increases in mean sea level are thus having major effects on the frequency as well as magnitude of minor flooding, making it more common and more severe over the long term. 
+Over the period 1983-2024, minor flood frequency count increased at an average rate of 0.98 days per year (Figure 15 top).  This rate is statistically significant (p < 0.01) and is consistent with the observed rise in regional and local mean sea level.  Comparing decades, minor flood counts increased from 18 days per year (1983–1993) to 48 days per year (2013–2023).  This corresponds to a 167% increase (nearly threefold).  Increases in mean sea level are thus having major effects on the frequency as well as magnitude of minor flooding, making it more common and more severe over the long term. 
 
 Palau experienced 35 flood days per year on average over the POR.  This number is highly variable due to interannual variability.  High yearly flood event clustering occurs in conjunction with La Niña events (e.g., occurring during storm years 1989, 1999–2002, 2008–2009, 2011–2014, 2017–2018, and 2021-2023).  For example, in 1999 Palau recorded 98 minor flood days, totaling 217 hours of cumulative exceedance duration.  Similarly high counts were nearly reached again in 2009 and 2013.  In contrast, El Niño is typically associated with low minor flood-day counts, such as 5 and 3 flood days in storm years 1998 and 2016, respectively.
+
+Seasonality is also pronounced (Figure 15 bottom). Minor flood days peaks during July-October. Flooding during these four months account for 50% of all minor flood days.  The other months each contribute 4-7% to the annual total. Notable exceptions to this typical seasonal pattern (e.g., January 1989, February 2008, and March 2022) all occurred during moderate to strong La Niña events (ONI values of -1.7, -1.5 and -1.0 °C, respectively). 
+
+<figure style="text-align: center;">
+  <img src="../../_static/figures/F11_Minor_flood_matrix.png" width="1000">
+<figcaption> <em><strong>Figure 15.</strong> Minor flood frequency from tide gauge at Malakal <strong>(top)</strong>. The bars show the annual total number of minor flood days for storm years 1983–2024. The black line shows there is a significant trend (p <0.01) in annual number of flood days over this period. Monthly Minor flood frequency <strong>(bottom)</strong>. The heatmap shows the total number of minor flood days by month/per year for storm years 1983–2024, with boxes shaded (darker) to show (higher) flood counts.</em> </figcaption> </figure>
+
+
+  

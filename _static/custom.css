@@ -151,6 +151,59 @@ figcaption {
   border-radius: 6px;
 }
 
+.figure-grid-1x2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.5em;
+  margin: 2em 0;
+  justify-items: center;
+}
+
+.figure-grid-1x2 img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+
+.figure-grid-3x1 {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.5em;
+  margin: 2em 0;
+  justify-items: center;
+}
+
+.figure-grid-3x1 img {
+  width: 100%;
+  max-width: 900px;   /* aligns with your text width */
+  height: auto;
+  border-radius: 6px;
+}
+
+.figure-grid-2x1 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.5em;  /* 👈 control spacing here */
+  margin: 2em 0;
+  justify-items: center;
+}
+
+.figure-grid-2x1 img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+
+.figure-grid-2x1 iframe {
+  height: 500px;
+}
+
+/* Make bottom figure span both columns */
+.figure-span {
+  grid-column: span 2;
+  max-width: 1000px;  /* optional */
+}
+
 /* =========================
    TABLES (report style)
 ========================= */
@@ -231,4 +284,54 @@ blockquote {
 
 .bd-content h1:first-of-type {
   text-align: center;
+}
+
+
+
+/* ===== DASHBOARD CARDS ===== */
+
+.dashboard-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);  /* 👈 4 cards in one row */
+  gap: 1.5em;
+  margin: 2em 0;
+}
+
+.dashboard-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  aspect-ratio: 1 / 1;   /* 👈 THIS makes them square */
+
+  padding: 1.5em;
+  border-radius: 12px;
+  background: #f8f9fb;
+  border: 1px solid #e0e0e0;
+  text-decoration: none;
+  color: inherit;
+  transition: all 0.2s ease;
+}
+
+
+.dashboard-card:hover {
+  background: #eef2ff;
+  border-color: #2d4b9b;
+  transform: translateY(-3px);
+}
+
+.dashboard-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.5em;
+  color: #222865;
+  text-align: center; 
+}
+
+.dashboard-card p {
+  margin: 0;
+  font-size: 0.95em;
+  line-height: 1.5;
+  text-align: center; 
 }
