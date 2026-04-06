@@ -37,12 +37,12 @@
 
 <div class="dashboard-grid">
 
-<a href="ocean/06_sea_level.html" class="dashboard-card">
+<a href=".chapters/ocean/06_sea_level.html" class="dashboard-card">
   <h3>Sea Level</h3>
   <p>sea level, minor flooding</p>
 </a>
 
-<a href="ocean/07_ocean_temperature.html" class="dashboard-card">
+<a href="chapters/ocean/07_ocean_temperature.html" class="dashboard-card">
   <h3>Ocean temperature</h3>
   <p>temperature, dhw</p>
 </a>
