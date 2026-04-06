@@ -47,7 +47,7 @@
   <p>temperature, dhw</p>
 </a>
 
-<a href="https://lauracagigal.github.io/CC_indicators_report/chapters/ocean/08_biochemistry_.html" class="dashboard-card">
+<a href="https://lauracagigal.github.io/CC_indicators_report/ocean/biochemistry.md" class="dashboard-card">
   <h3>Biochemistry</h3>
   <p>pH, chlorophyll, phytoplankton, O2</p>
 </a>
