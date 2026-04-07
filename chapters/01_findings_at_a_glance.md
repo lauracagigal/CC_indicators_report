@@ -4,7 +4,7 @@ This report draws on the latest meteorological and oceanographic data and analys
 Historical observations paint a consistent picture of ongoing human-forced climate change interacting with underlying natural variability.  Discernible trends are found in measures of atmospheric greenhouse gases, surface air temperatures, tropical cyclones, sea level, sea surface temperature, and ocean biochemical conditions.  Most areas are experiencing increased, positive rates of change in all these parameters.  However, cold nights, tropical cyclones, estimated phytoplankton size, and subsurface oxygen concentrations are decreasing. 
 
 <figure style="text-align: center;">
-  <img src="../_static/figures/PalauHistoricalClimateChangeSummaryGraphic.png" width="300">
+  <img src="../_static/figures/PalauHistoricalClimateChangeSummaryGraphic.png" width="500">
 <figcaption> <strong>Palau Historical Climate Change Summary Graphic:</strong> This table provides an overview of environmental conditions in the Republic of Palau due to a changing climate. Indicators of historical change are given for two broad categories: the atmosphere and the ocean. Increasing or decreasing trends of change observed for each indicator are shown in the table with red and blue backgrounds, respectively. Darker colors denote that trends are statistically significant (p < 0.05). Details are provided in the text that follows. </figcaption> </figure>
 
 ---

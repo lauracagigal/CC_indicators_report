@@ -35,7 +35,7 @@ In addition to variability from place to place, sea level is highly variable ove
 Since the start of continuous satellite observations in 1993, absolute mean sea level in the vicinity of the Malakal tide gauge has risen by 17.34 cm (6.82 in) (Figure 13, 14). Over the same period, the relative sea level measured directly by the Malakal tide gauge increased by 12.26 cm (4.83 in).   These changes correspond to satellite-derived and station-derived rates of 5.78 mm (0.23 in) per year and 4.09 mm (0.16 in) per year, respectively. The difference between absolute (satellite-measured) and relative (tide-gauge-measured) sea level rise is largely attributable to vertical land motion at or near the gauge site.  Note that the sea level near Palau is rising faster than the global average.  Satellite observations indicate a current global mean sea level (GMSL) rise of 4.4 mm (0.17 in) per year (Willis et al., 2025).
 
 <figure style="text-align: center;">
-  <img src="../../_static/figures/F10_SeaLevel_map.png" width="300">
+  <img src="../../_static/figures/F10_SeaLevel_map.png" width="600">
 <figcaption> <em><strong>Figure 13.</strong> Sea Level Change from Satellite Altimetry. This map shows the (absolute) change in mean sea level in the vicinity of Palau from satellite altimetry since the beginning of the satellite record (1993-2022).  For comparison, the (relative) value for the tide gauge at Malakal is shown as a circle in the center of the figure.  The black line is the Palau EEZ.</em> </figcaption> </figure>
 
 <figure style="text-align: center;">
