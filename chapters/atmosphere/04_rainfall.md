@@ -10,6 +10,21 @@
     </ul>
 </div>
 
+## Indicators
+<div class="dashboard-grid">
+<a href="#total_wet_rain" class="dashboard-card small">
+  <h3>Wet days</h3>
+  <p>Frequency and distribution of rainfall days.</p>
+</a>
+<a href="#dry_rain" class="dashboard-card small">
+  <h3>Dry conditions</h3>
+  <p>Dry days and drought indicators.</p>
+</a>
+<a href="#heavy_rain" class="dashboard-card small">
+  <h3>Heavy rainfall</h3>
+  <p>Extreme precipitation events.</p>
+</a>
+</div>
 
 ## Background
 Rainfall refers to the amount of precipitation in the form of rain that occurs in a specific area over a given period.  Changes in rainfall can have a wide-ranging impact on humans and ecosystems (USGCRP, 2017).  On islands, where rainfall is often the primary source of all freshwater, extended dry periods affect drinking water supply (Miles et al., 2020).  Drought also affects agriculture, as well as streamflow necessary to maintain aquatic habitat. Heavy or extreme rainfall events can damage crops, increase soil erosion, and lead to in-land flooding that damages infrastructure. Runoff from excessive precipitation can also carry harmful pollutants into nearby water bodies, endangering aquatic species as well as human health.
@@ -19,6 +34,7 @@ Monitoring rainfall is important for understanding climate change and variabilit
 Palau’s rainfall is regulated by the Intertropical Convergence Zone (ITCZ), the West Pacific Monsoon, and tropical disturbances. Palau experiences a wet season that runs from May to October, though Palau’s proximity to the Pacific Warm Pool results in relatively high rainfall through the year (McGree et al., 2022).  Year to year and day to day variability is high.  Long dry periods tend to be associated with strong El Niño events.  For example, during the 1982–1983, 1997–1998, and 2015–2016 El Niño events Palau experienced droughts and acute water shortages which resulted in water rationing (Polhemus 2017; Rupic et al., 2018). Wetter conditions, and more heavy rainfall events, tend to accompany La Niña.  High natural variability in rainfall at daily, annual, and decadal timescales makes it difficult to discern long-term trends.  
 
 ## Total wet day rainfall
+(total_wet_rain)=
 
 Observations indicate a modest 156mm (6.14 inch) increase in the average annual total rainfall at Koror over the period 1952-2024 (Figure 5).  There is an estimated positive trend of 2.1 mm (0.08 inches) per year, but it is not statistically significant, suggesting that there is no clear, discernable change in annual total rainfall at Koror over the POR.        
 Over the POR the average annual total accumulated rainfall is 3783 mm (148.9 inches: TABLE 2.1).  The wettest year on record was 2011, with an annual total of 5483 mm (216.0 inches) (Figure 5).  The driest year on record was 2015 with 2450 mm (96.5 inches).
@@ -46,6 +62,7 @@ Seasonal totals exhibit similar behavior.  Figure 6 shows the annual total mean 
 
 
 ## Dry conditions
+(dry_rain)=
 
 Dry conditions are characterized using the annual number of dry days (daily rainfall < 1 mm) and measures of dry spells, including the average number of consecutive dry days and the annual maximum run of consecutive dry days (Figure 7; TABLE2.2). 
 
@@ -62,6 +79,7 @@ The annual average number of dry days is 145 and consecutive dry days is 10.  Dr
 <figcaption> <em><strong>Figure 7.</strong> Annual dry days (top) and maximum number of consecutive days (bottom) over the period 1951–2024 at Koror.  Dry days are defined as days below 1mm (0.04 inches) threshold.  Consecutive dry days is a measure of the longest sequence of days in a year where rainfall is less than 1 mm (0.04 inches). The dashed black line represents a trend that is not statistically significant. </em> </figcaption> </figure>
 
 ## Heavy rainfall
+(heavy_rain)=
 
 Wet conditions are characterized using the annual number of wet days (daily rainfall ≥ 1 mm) and the annual number of heavy rainfall days, defined as days exceeding 47 mm (1.9 inches; the 95th percentile threshold.  Over the period 1952-2024, Koror averaged 219 wet days per year, or 61% of the days per year (TABLE 2.2).  The year with the most wet days was 2011, with 269 days.  Over the POR, the annual average number of days with heavy rainfall is 18.  The maximum number of heavy rainfall days in a year is 34 (in 2011).  The minimum number of heavy rainfall days in a year is 5 (in 2010).
 

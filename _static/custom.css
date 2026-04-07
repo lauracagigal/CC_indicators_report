@@ -335,3 +335,8 @@ blockquote {
   line-height: 1.5;
   text-align: center; 
 }
+
+.dashboard-card.small {
+  aspect-ratio: auto;
+  padding: 1em;
+}
