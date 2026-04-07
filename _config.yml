@@ -63,6 +63,12 @@ sphinx:
       use_repository_button: true
     html_context:
       default_mode: light
+
+    html_extrahead: |
+      <script>
+        // FORCE LIGHT MODE BEFORE ANYTHING ELSE
+        document.documentElement.setAttribute("data-theme", "light");
+      </script>
       
       
 launch_buttons:
