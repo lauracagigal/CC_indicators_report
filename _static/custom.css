@@ -372,3 +372,29 @@ blockquote {
   text-align: center; 
 }
 
+
+/* =========================
+   PDF
+========================= */
+
+@media print {
+
+  /* Hide sidebar */
+  .bd-sidebar-primary,
+  .bd-sidebar-secondary {
+    display: none !important;
+  }
+
+  /* Hide top navbar */
+  .bd-header {
+    display: none !important;
+  }
+
+}
+
+@media print {
+  @page {
+    size: A4;
+    margin: 2cm 2cm 2.5cm 2cm;
+  }
+}
