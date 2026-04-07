@@ -88,6 +88,7 @@ body {
 
 .bd-content h2 {
   font-size: 1.5em;
+  margin-top: 2.5em;
 }
 
 .bd-content h3 {
@@ -341,6 +342,8 @@ blockquote {
   text-align: center;
   text-decoration: none;
   color: inherit;
+
+  transition: all 0.2s ease;
 }
 
 .dashboard-card.small {
@@ -351,7 +354,8 @@ blockquote {
 .dashboard-card:hover {
   background: #cad5f9;
   border-color: #2d4b9b;
-  transform: translateY(-3px);
+  transform: translateY(-4px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.08);
 }
 
 .dashboard-card h3 {
