@@ -33,6 +33,7 @@ html:
   use_repository_button: true
   use_edit_page_button: true
   home_page_in_navbar: true
+  use_theme_switcher: false
   # announcement: "In development!"
   comments:
     hypothesis: true
@@ -49,6 +50,7 @@ sphinx:
     html_js_files:
       - https://cdn.plot.ly/plotly-latest.min.js
       - https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js
+      - custom.js
     html_css_files:
       - custom.css
     suppress_warnings: ["mystnb.unknown_mime_type"]
@@ -58,7 +60,7 @@ sphinx:
       show_navbar_depth: 4 
       repository_url: https://github.com/lauracagigal/CC_indicators_report
       use_repository_button: true
-
+      
 launch_buttons:
   # Binder button
   binderhub_url: "https://mybinder.org"  # The URL for your BinderHub deployment

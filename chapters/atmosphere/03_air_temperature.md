@@ -9,7 +9,20 @@
     </ul>
 </div>
 
+## Indicators
+<div class="dashboard-grid">
+  <a href="#mean_air_temp" class="dashboard-card small">
+    <h3>Mean temperature</h3>
+  </a>
 
+  <a href="#max_min_temp" class="dashboard-card small">
+    <h3>Maximum and minimum</h3>
+  </a>
+
+  <a href="#hot_cold_temp" class="dashboard-card small">
+    <h3>Hot days and cold nights</h3>
+  </a>
+</div>
 
 
 ## Background
@@ -20,7 +33,8 @@ Surface temperature is a key measure of climate change.  Observations come from 
 Because of the moderating influence of the ocean, Palau’s annual temperature range is small (on the order of 1°C; Miles et al., 2020).  However, small changes in surface temperature matter in tropical islands: very hot days and warm nights increase heat stress and cooling needs, especially when humidity is high (USGCRP, 2017). 
 
 
-## Local Mean Surface Temperature
+
+<h2 id="mean_air_temp">Local Mean Surface Temperature</h2>
 
 The average annual mean surface air temperature at the Koror meteorological station over the period 1952 to 2024 period of record (POR) is 27.7 °C (81.9°F: TABLE 1).  With the exception of a short-lived decrease in the early 2020s associated with a prolonged La Niña event, the annual mean temperature at Koror exhibits a relatively steady, statistically significant long-term increase since measurements commenced in 1951 (Figure 2).
 
@@ -34,10 +48,10 @@ Note that the global mean surface temperature in 2024 was about 1.47 degrees °C
 <figure style="text-align: center;">
   <img src="../../_static/figures/F2_ST_Annomalies_top10.png" width="1100">
 <figcaption> <em><strong>Figure 2.</strong> Annual mean temperature anomalies relative to 1961–1990 climatology at Koror.  The colored dots represent the 10 warmest years on record, with the absolute values shown along the right axis.  The solid black line represents the trend, which is statistically significant (p < 0.05).  From NOAA ESRL Global Monitoring Division. https://www.esrl.noaa.gov/gmd/ccgg/trends/ </em> </figcaption> </figure>
-
 <br>
 
-## Local Maximum and Minimum Surface Temperature
+<h2 id="max_min_temp">Local Maximum and Minimum Surface Temperature</h2>
+
 At Koror, the average annual maximum temperature over the POR was 32.1°C (89.8°F) and the average annual minimum 23.8°C (74.8°F: TABLE 1)
 
 Trends differ between daytime highs and nighttime lows (Figure 3).  Annual maximum temperatures show no statistically significant trend over the POR.  Annual minimum temperatures show a statistically significant trend over the POR, with a total change of +0.962°C (1.73°F) and corresponding annual rate of change of +0.013°C (0.023°F) over this time.   
@@ -57,7 +71,8 @@ This pattern indicates that, although the hottest daytime temperatures have not 
 
 Other than cooling associated with the strong La Nina early this decade, correlations with ENSO are not strong in this record.
 
-## Hot days and cold nights
+<h2 id="hot_cold_temp">Hot days and cold nights</h2>
+
 
 At Koror, the average daily maximum temperature over the POR is 31.1°C (88.0°F), and the average daily minimum is 24.4°C (75.9°F).  On June 3, 1976, the maximum temperature reached 35.0°C (95.0°F), the hottest day on record.  The coldest day on record was March 25, 1953, when the minimum temperature reached 20.6°C (69.1°F).
 

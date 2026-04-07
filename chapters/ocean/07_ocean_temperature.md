@@ -8,6 +8,16 @@
     </ul>
 </div>   
 
+## Indicators
+<div class="dashboard-grid">
+  <a href="#mean_temp" class="dashboard-card small">
+    <h3>Mean SST</h3>
+  </a>
+
+  <a href="#dhw" class="dashboard-card small">
+    <h3>DHW</h3>
+  </a>
+</div>
 
 ## Background
 
@@ -17,7 +27,7 @@ SST is one of the most widely recognized indicators of long-term global climate 
 
 Palau’s corals were exposed to intense heat stress and widespread bleaching during the first global bleaching event in 1998, when a strong El Niño event followed by a La Niña event brought warmer waters to Palau (Bruno et al. 2001).  Prior to that, Palau had no records of significant bleaching events (Colin, 2009).  Palau experienced coral bleaching during the global bleaching events of 2010, 2014–2017, and 2023–2024, but not at the level of the 1998 event (van Woesik et al. 2012; Colin, 2018; Gouezo et al. 2019; Niemann, 2024).
 
-## Mean Sea Surface Temperature
+<h2 id="mean_temp">Mean Sea Surface Temperature</h2>
 
 Palau has one of the most comprehensive temperature monitoring networks on any single coral reef area in the world (Colin 2018; Colin and Johnston 2020). In situ measurements at different depths have been collected for the past 20 years. While local ocean water temperatures vary considerably over time, satellite-derived observations indicate that mean SST in the vicinity of Palau has increased by 1.03 °C (1.85 °F) over the period 1981-2024 (Figure 17).  This corresponds to a statistically significant warming rate of 0.024°C (0.043°F) per year.
 
@@ -41,7 +51,8 @@ Satellite-derived SST observations also vary at intra and interannual time scale
   <img src="../../_static/figures/F14_SST_ENSO.png" width="1000">
 <figcaption> <em><strong>Figure 17.</strong> Sea Surface Temperature (SST) from satellite and ENSO state.  The maps show the change in mean SST (°C per decade) in the vicinity of Palau over the period 1981–2024 from the NOAA OISSTv2 satellite under different ENSO states (i.e., La Niña, Neutral, El Niño).  The grey line is the Palau EEZ.</em> </figcaption> </figure>
 
-## Degree heating weeks
+
+<h2 id="dhw">Degree heating weeks</h2>
 
 The NOAA Coral Reef Watch (CRW) daily global 5km satellite coral bleaching Degree Heating Week (DHW) product for the virtual station near Palau summarizes accumulated heat stress that can lead to coral bleaching and death (Figure 19). DHW values are grouped into bleaching risk categories that correspond to the likelihood and potential severity of coral bleaching: Bleaching Warning (0 < DHW < 4), Bleaching Alert Level 1 (4 ≤ DHW < 8), and Bleaching Alert Level 2 (DHW ≥ 8). At Alert Level 1, significant bleaching is likely within weeks if heat stress persists. At Alert Level 2 and above, severe and widespread bleaching and elevated risk of coral mortality are likely. In Palau, 30°C (86°F) is commonly used as an approximate threshold for the onset of bleaching risk, with bleaching occurring when temperatures remain above this level for sustained periods (Colin and Johnston, 2020).  
 

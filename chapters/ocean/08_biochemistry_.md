@@ -10,6 +10,22 @@
     </ul>
 </div>   
 
+## Indicators
+<div class="dashboard-grid">
+  <a href="#ph" class="dashboard-card small">
+    <h3>pH</h3>
+  </a>
+  <a href="#chlorophyll" class="dashboard-card small">
+    <h3>Chlorophyll</h3>
+  </a>
+  <a href="#phytoplankton" class="dashboard-card small">
+    <h3>Phytoplankton</h3>
+  </a>
+  <a href="#o2" class="dashboard-card small">
+    <h3>O2</h3>
+  </a>
+</div>
+
 ## Background
 
 Ocean biochemistry links physical climate to marine life.  Measures of changing ocean chemistry include changes in surface‐ocean acidity (pH), phytoplankton abundance, phytoplankton size structure, and subsurface oxygen concentrations.  Surface ocean pH is a measure of ocean acidification.  As the amount of CO2 in the atmosphere has increased, a substantial portion (as much as 26%) has been absorbed by the ocean (IPCC, 2021). This has caused ocean pH to decline (the ocean has become more acidic). This makes it harder for corals and plankton to form calcium carbonate, the main mineral used to build their hard skeletons and shells. This adversely impacts coral reefs and shellfish, and threatens other marine ecosystems including pelagic fisheries.
@@ -21,7 +37,7 @@ Oxygen concentrations in the ocean subsurface are a critical indicator of marine
 These biochemical indicators are observed and analyzed with complementary tools. Including satellite ocean color and SST, in-situ water-column profiles, and physics–biogeochemistry reanalyses that fuse observations with models.  
 Values for these biochemical indicators vary with space and time.   With respect to ENSO, in the ocean around Palau El Niño typically suppresses nutrients and can shift pH and oxygen through changes in upwelling and air–sea fluxes (Behrenfeld et al., 2006; NOAA GFDL, 2022).  In contrast, La Niña often favors higher chlorophyll and larger median cell size in parts of the western Pacific through enhanced mixing or upwelling.   
 
-## Ocean Acidification (pH) 
+<h2 id="ph">Ocean Acidification (pH) </h2>
 
 Across Palau’s waters, oceanic pH simulated by a biogeochemical model shows a statistically significant long‑term decline over the period 1993- 2025 (Figure 20).  Over the POR mean area‑average pH decreased by total of 0.032 pH units, at a statistically significant rate of -0.001 pH units per year.  This corresponds to a more than 7% increase in acidity. The annual area average pH in the vicinity of Palau over the POR has ranged from a minimum 8.03 to a maximum of 8.08. The highest and lowest monthly recorded pH values were 8.02 (May 2019) and 8.08 (September 1994) respectively. For regional context, the long‑running Station ALOHA record near Hawaiʻi shows a decline of about 0.051 pH units from 1988–2020 (or more than a 12% increase in acidity) (Marra et al. 2022).  
 Observed change in annual mean pH in the vicinity of Palau over the POR is mostly homogeneous in space, with decrease value of about 0.05 ph units of change between 1993 and 2025 (Figure 19).
@@ -41,7 +57,7 @@ Seasonally, pH departs from the annual average by roughly 0.01 anomaly pH units,
 <figcaption> <em><strong>Figure 20.</strong> SOcean Acidification (pH) and ENSO state.  The maps show the mean pH in the vicinity of Palau as departures from the POR mean under different ENSO states (i.e., La Niña, Neutral, El Niño).  The grey line is the Palau EEZ.</em> </figcaption> </figure>
 
 
-## Chlorophyll Concentration
+<h2 id="chlorophyll">Chlorophyll Concentration</h2>
 
 The area-wide average satellite-derived chlorophyll-a concentration in the vicinity of Palau over the period 1998- 2025 shows no statistically significant long term trend (Figure 21).  This aligns with broader Western Pacific analyses that suggest stability or weak declines regionally, with significant trends confined to specific sub-basins (WPRFMC, 2024).
 The mean annual area-average Chlorophyll-a concentration over the POR is 0.1mg/m3 .  The mean annual area average Chlorophyll-a concentration in the vicinity of Palau over the POR has ranged from 0.089 to 0.121mg/m3.  The highest and lowest recorded Chlorophyll-a concentration were 0.052 mg/m3 September 1998) and 0.166 mg/m3 (February 2005) respectively.  
@@ -63,7 +79,8 @@ Seasonally, Chlorophyll-a concentration departs from the annual average by rough
   <img src="../../_static/figures/F15_chlorophyll_ENSO.png" width="1000">
 <figcaption> <em><strong>Figure 22.</strong>  Chlorophyll and ENSO state.  The maps show the mean Chlorophyll-a concentration (mg/m3) in the vicinity of Palau as departures from the POR mean under different ENSO states (i.e., La Niña, Neutral, El Niño).  The grey line is the Palau EEZ.</em> </figcaption> </figure>
 
-## Estimated Median Phytoplankton Size
+
+<h2 id="phytoplankton">Estimated Median Phytoplankton Size</h2>
 
 Estimated median phytoplankton size can be derived from satellite remotely sensed sea surface temperature and chlorophyll-a concentration (Polovina, J.J., and P.A. Woodworth, 2012).  Time series of monthly estimated median phytoplankton size (μm equivalent spherical diameter, ESD) around Palau shows a statistically significant long‑term decline over the period 1998- 2024 (Figure 23).  Over the full record, median phytoplankton size in the vicinity of Palau decreased by 0.02μm ESD, at a rate of -0.001μm ESD, per year. The area average of the median phytoplankton size has ranged from 0.81μm ESD (September 1998) to 1.26μm ESD  (February 2005) over the POR, with an average phytoplankton size of 1.03μm ESD.  The long term mean map shows observed change in annual mean median phytoplankton size in the vicinity of Palau over the POR varies from -0.2 to 0.2μm ESD.
 
@@ -86,7 +103,7 @@ Seasonally, median phytoplankton size departs from the annual average by roughly
 <figcaption> <em><strong>Figure 24.</strong>Estimated Median Phytoplankton Size and ENSO state.  The maps show the median phytoplankton size (µm ESD), in the vicinity of Palau as departures from the POR mean under different ENSO states (i.e., La Niña, Neutral, El Niño).  The grey line is the Palau EEZ.</em> </figcaption> </figure>
 
 
-## Subsurface Oxygen
+<h2 id="o2">Subsurface Oxygen</h2>
 
 Around Palau, hindcast-derived subsurface oxygen concentrations over the period 1993-2025 show a decreasing trend that is statistically significant (Figure 26).  Over the POR, mean area average subsurface oxygen concentration decreased by 1.18µmol/L, at a rate of -0.03µmol/L per year.  This corresponds to a 6 % decrease in subsurface oxygen content. This is consistent with global trend of ocean deoxygenation and strengthened stratification (IPCC, 2021).
 

@@ -8,6 +8,17 @@
     </ul>
 </div>
 
+## Indicators
+<div class="dashboard-grid">
+  <a href="#tcs_all" class="dashboard-card small">
+    <h3>All TCs</h3>
+  </a>
+
+  <a href="#tcs_severe" class="dashboard-card small">
+    <h3>Severe TCs</h3>
+  </a>
+</div>
+
 ## Background
 
 Also known as tropical storms, typhoons, hurricanes, and cyclones, tropical cyclones (TCs) are intense low-pressure systems that form over warm ocean waters.  Depending on their strength, TCs can have dramatic effects on human life and property. Impacts due to strong winds, heavy rains, and high seas associated with a landfalling TC can be devastating across multiple sectors, especially for islands like Palau (Merrifield et al., 2019).   
@@ -26,7 +37,8 @@ Palau sits in a very active cyclone basin, often referred to as a “typhoon all
   <img src="../../_static/figures/tcs_pacific_regions.gif" width="600">
 <figcaption> <em><strong>Figure 9.</strong>Regional Specialized Meteorological Centers and Tropical Cyclone Warning Centers (RSMC/TCWC) in the Pacific Basin.  Source NOAA Office of Satellite and Product Operations.</em> </figcaption> </figure>
 
-## All tropical cyclones in the vicinity of Palau
+<h2 id="tcs_all">All tropical cyclones in the vicinity of Palau</h2>
+
 
 To characterize tropical cyclone (TC) activity near Palau, we define a study region as a 5° radius circle centered on Koror. Using NOAA’s IBTrACS catalog, we identify all TCs of Saffir–Simpson Category 1 or higher that pass within this region.
 
@@ -45,7 +57,7 @@ Basin-wide TC activity exhibits high interannual variability but is broadly stab
   <img src="../../_static/figures/F8_TCs_Historical_bars_category.png" width="1100">
 <figcaption> <em><strong>Figure 10.</strong> Tropical cyclones (TCs) in the vicinity of Palau since 1950.  Map showing all TC tracks in the vicinity of Palau (top) and annual storm count (bottom).  Categorizes are colored following the Saffir Simpson scale for wind intensity (see text for details). Grey represents TCs where no wind information is available.  The dashed black line represents a trend that is not statistically significant.</em> </figcaption> </figure>
 
-## Severe tropical cyclones in the vicinity of Palau
+<h2 id="tcs_severe">Severe tropical cyclones in the vicinity of Palau</h2>
 
 Severe tropical cyclones are defined here as Saffir–Simpson Category 3 or higher.  In NOAA’s IBTrACS catalog, a total of 9 Severe TCs occurred between 1950 and 2025, of which 3 of these were category 4 (TABLE 3.1). 
 

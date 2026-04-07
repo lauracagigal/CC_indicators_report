@@ -17,3 +17,5 @@ chapters:
       - file: chapters/ocean/06_sea_level.md
       - file: chapters/ocean/07_ocean_temperature.md
       - file: chapters/ocean/08_biochemistry_.md
+  
+  - file: chapters/r00_references.md

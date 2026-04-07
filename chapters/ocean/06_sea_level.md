@@ -10,6 +10,17 @@
     </ul>
 </div>
 
+## Indicators
+<div class="dashboard-grid">
+  <a href="#mean_sea_level" class="dashboard-card small">
+    <h3>Mean Sea Level</h3>
+  </a>
+
+  <a href="#minor_flood" class="dashboard-card small">
+    <h3>Minor flooding</h3>
+  </a>
+</div>
+
 ## Background
 
 Sea level is the height of the ocean surface.  Rising sea level is a crucial issue for many islands in the Pacific. It causes ocean inundation, increased coastal flooding when coupled with waves, and shoreline erosion that damages built and natural infrastructure (Marra et al., 2012; Miles et al., 2020).  Impacts of higher sea levels also occur because of saltwater intrusion and inundation of aquifers affects domestic water supplies, and salinization and flood damage affects agriculture.
@@ -18,7 +29,8 @@ Changes in mean sea level are indicative of overall warming of the ocean and mel
 
 In addition to variability from place to place, sea level is highly variable over time.  For Palau, the highest sea levels tend to occur in the late boreal summer to early fall, in association with the perigean spring or “king tides” that can result in minor flooding (SPC 2022, UHSLC 2025).  Large sea level fluctuations in the western North Pacific are also associated with ENSO: Below-normal sea levels are typical during El Niño events and above-normal sea levels during La Niña (Marra et al., 2012; Widlansky et al., 2014).  
 
-## Regional and local mean sea level
+<h2 id="mean_sea_level">Regional and local mean sea level</h2>
+
 
 Since the start of continuous satellite observations in 1993, absolute mean sea level in the vicinity of the Malakal tide gauge has risen by 17.34 cm (6.82 in) (Figure 13, 14). Over the same period, the relative sea level measured directly by the Malakal tide gauge increased by 12.26 cm (4.83 in).   These changes correspond to satellite-derived and station-derived rates of 5.78 mm (0.23 in) per year and 4.09 mm (0.16 in) per year, respectively. The difference between absolute (satellite-measured) and relative (tide-gauge-measured) sea level rise is largely attributable to vertical land motion at or near the gauge site.  Note that the sea level near Palau is rising faster than the global average.  Satellite observations indicate a current global mean sea level (GMSL) rise of 4.4 mm (0.17 in) per year (Willis et al., 2025).
 
@@ -39,7 +51,7 @@ Superimposed on the long-term rise, sea level around Palau exhibits pronounced i
 *Source: NOAA / University of Hawaii Sea Level Center
 Notes: Sea level data has been deseasoned and detrended*
 
-## Minor flood frequency
+<h2 id="minor_flood">Minor flood frequency</h2>
 
 Here, a *minor flood day* is defined as any day on which sea level at the Malakal tide gauge reaches or exceeds 30 cm above MHHW for at least one hour.  Flood days are tallied by storm year, defined here as the period from May through April of the following year.
 
