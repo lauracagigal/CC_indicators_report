@@ -12,9 +12,11 @@
   <p>Temperature and DHW</p>
 </a>
 
-<a href="/CC_indicators_report/chapters/ocean/biochemistry_.html" class="dashboard-card">
+<a href="/CC_indicators_report/chapters/ocean/08_biochemistry_.html" class="dashboard-card">
   <h3>Biochemistry</h3>
   <p>pH, chlorophyll, phytoplankton, O2</p>
 </a>
+
+
 
 </div>
