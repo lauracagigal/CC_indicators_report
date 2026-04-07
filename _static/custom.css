@@ -1,3 +1,11 @@
+html {
+  scroll-behavior: smooth;
+}
+/* Fix anchor scrolling (prevents titles hidden under header) */
+:target {
+  scroll-margin-top: 120px;
+}
+
 .bd-page-width {
   max-width: 1200px;
 }
@@ -269,7 +277,7 @@ blockquote {
 ========================= */
 
 .admonition.highlight {
-  border-left-color: #2a9d8f;
+  border-left-color: #6c9c96c7;
   background: #c2ddd9;
 }
 
