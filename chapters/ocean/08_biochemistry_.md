@@ -45,9 +45,23 @@ Observed change in annual mean pH in the vicinity of Palau over the POR is mostl
   <img src="../../_static/figures/F14_pH_mean_map.png"> 
   <img src="../../_static/figures/F14_pH_mean_map_trend.png"> </div> 
 </figure> 
-<figure style="text-align: center; margin: 2em 0;"> 
-  <iframe   src="../../_static/figures/F14_pH_mean_trend.html" style="width: 140%; height: 500px; border: none; border-radius: 6px;"> </iframe> 
-  <figcaption style="font-size: 0.9em; color: #444; margin-top: 0.5em;"> <strong>Figure 19.</strong> Change in pH from a biogeochemical model. The maps (top) show the average pH (left) and the change (right) in mean surface pH in the vicinity of Palau over the period 1993- 2025. The grey line is the Palau EEZ. The line plot (bottom) shows the change in mean surface pH averaged over the area within the top plot. The solid black line represents the trend, which is statistically significant (p < 0.05). </figcaption> 
+<figure style="text-align: center; margin: 2em 0;">
+
+  <!-- PDF version (static) -->
+  <img src="../../_static/figures/F14_pH_mean_trend.png"
+       class="print-only"
+       style="width: 100%; border-radius: 6px;" />
+
+  <!-- Web version (interactive) -->
+  <iframe src="../../_static/figures/F14_pH_mean_trend.html"
+          class="screen-only"
+          style="width: 140%; height: 500px; border: none; border-radius: 6px;">
+  </iframe>
+
+  <figcaption style="font-size: 0.9em; color: #444; margin-top: 0.5em;">
+    <strong>Figure 19.</strong> Change in pH from a biogeochemical model. The maps (top) show the average pH (left) and the change (right) in mean surface pH in the vicinity of Palau over the period 1993–2025. The grey line is the Palau EEZ. The line plot (bottom) shows the change in mean surface pH averaged over the area within the top plot. The solid black line represents the trend, which is statistically significant (p &lt; 0.05).
+  </figcaption>
+
 </figure>
 
 Seasonally, pH departs from the annual average by roughly 0.01 anomaly pH units, with season DJF typically showing the largest values. However, ENSO state changes are the primary pattern of natural annual variability (Figure 21).  Over the POR, the area mean pH during La Niña conditions averages 8.053 and El Niño conditions 8.052, a difference of approximately 0.01 pH units. 
@@ -70,9 +84,23 @@ Seasonally, Chlorophyll-a concentration departs from the annual average by rough
   <img src="../../_static/figures/F15_chlorophyll_mean_map.png"> 
   <img src="../../_static/figures/F15_chlorophyll_mean_map_trend.png"> </div> 
 </figure> 
-<figure style="text-align: center; margin: 2em 0;"> 
-  <iframe   src="../../_static/figures/F15_chlorophyll_mean_trend.html" style="width: 140%; height: 500px; border: none; border-radius: 6px;"> </iframe> 
-  <figcaption style="font-size: 0.9em; color: #444; margin-top: 0.5em;"> <strong>Figure 21.</strong> Change in Chlorophyll from satellite.  The maps (top) shows the average (left) and the change (right) in annual mean Chlorophyll-a concentration (mg/m3) in the vicinity of Palau over the period 1998-2024 derived from satellite remotely sensed ocean color data.  The grey line is the Palau EEZ.  The line plot (bottom) shows the change in mean Chlorophyll-a concentration (mg/m3) averaged over the area within the top plot.  The black line represents the trend, which is not statistically significant (p < 0.05).</figcaption> 
+<figure style="text-align: center; margin: 2em 0;">
+
+  <!-- PDF version (static) -->
+  <img src="../../_static/figures/F15_chlorophyll_mean_trend.png"
+       class="print-only"
+       style="width: 100%; border-radius: 6px;" />
+
+  <!-- Web version (interactive) -->
+  <iframe src="../../_static/figures/F15_chlorophyll_mean_trend.html"
+          class="screen-only"
+          style="width: 140%; height: 500px; border: none; border-radius: 6px;">
+  </iframe>
+
+  <figcaption style="font-size: 0.9em; color: #444; margin-top: 0.5em;">
+    <strong>Figure 21.</strong> Change in Chlorophyll from satellite. The maps (top) show the average (left) and the change (right) in annual mean Chlorophyll-a concentration (mg/m³) in the vicinity of Palau over the period 1998–2024 derived from satellite remotely sensed ocean color data. The grey line is the Palau EEZ. The line plot (bottom) shows the change in mean Chlorophyll-a concentration (mg/m³) averaged over the area within the top plot. The black line represents the trend, which is not statistically significant (p &lt; 0.05).
+  </figcaption>
+
 </figure>
 
 <figure style="text-align: center;">
@@ -93,9 +121,23 @@ Seasonally, median phytoplankton size departs from the annual average by roughly
   <img src="../../_static/figures/F16_phytoplankton_mean_map.png"> 
   <img src="../../_static/figures/F16_phytoplankton_mean_map_trend.png"> </div> 
 </figure> 
-<figure style="text-align: center; margin: 2em 0;"> 
-  <iframe   src="../../_static/figures/F16_phytoplankton_mean_trend.html" style="width: 140%; height: 500px; border: none; border-radius: 6px;"> </iframe> 
-  <figcaption style="font-size: 0.9em; color: #444; margin-top: 0.5em;"> <strong>Figure 23.</strong> Estimated Median Phytoplankton Size from satellite. The maps (top) show the average (left) and the change (right) in the estimated median phytoplankton size (μm equivalent spherical diameter, ESD) in the vicinity of Palau over the period 1998-2025 derived from satellite remotely sensed sea surface temperature and ocean color data.  The grey line is the Palau EEZ.  The line plot (bottom) shows the change in the estimated median phytoplankton size (μm ESD) averaged over the area within the top plot.  The black line represents the trend, which is statistically significant (p < 0.05).</figcaption> 
+<figure style="text-align: center; margin: 2em 0;">
+
+  <!-- PDF version (static) -->
+  <img src="../../_static/figures/F16_phytoplankton_mean_trend.png"
+       class="print-only"
+       style="width: 100%; border-radius: 6px;" />
+
+  <!-- Web version (interactive) -->
+  <iframe src="../../_static/figures/F16_phytoplankton_mean_trend.html"
+          class="screen-only"
+          style="width: 140%; height: 500px; border: none; border-radius: 6px;">
+  </iframe>
+
+  <figcaption style="font-size: 0.9em; color: #444; margin-top: 0.5em;">
+    <strong>Figure 23.</strong> Estimated Median Phytoplankton Size from satellite. The maps (top) show the average (left) and the change (right) in the estimated median phytoplankton size (μm equivalent spherical diameter, ESD) in the vicinity of Palau over the period 1998–2025 derived from satellite remotely sensed sea surface temperature and ocean color data. The grey line is the Palau EEZ. The line plot (bottom) shows the change in the estimated median phytoplankton size (μm ESD) averaged over the area within the top plot. The black line represents the trend, which is statistically significant (p &lt; 0.05).
+  </figcaption>
+
 </figure>
 
 <figure style="text-align: center;">
@@ -117,9 +159,23 @@ Seasonal signals are modest compared with interannual variability. Seasonally, s
   <img src="../../_static/figures/F17_O2_mean_map.png"> 
   <img src="../../_static/figures/F17_O2_mean_map_trend.png"> </div> 
 </figure> 
-<figure style="text-align: center; margin: 2em 0;"> 
-  <iframe   src="../../_static/figures/F17_O2_mean_trend.html" style="width: 140%; height: 500px; border: none; border-radius: 6px;"> </iframe> 
-  <figcaption style="font-size: 0.9em; color: #444; margin-top: 0.5em;"> <strong>Figure 25.</strong> Change in Subsurface Oxygen from hindcast.  The maps (top) show the average (left) and the change (right) in subsurface oxygen concentration (µmol/L) in the vicinity of Palau over the period 1993-2025.  The grey line is the Palau EEZ.  The line plot (bottom) shows the change in subsurface oxygen concentration (µmol/L) averaged over the area within the top plot.  The black line represents the trend, which is statistically significant (p < 0.05). </figcaption> 
+<figure style="text-align: center; margin: 2em 0;">
+
+  <!-- PDF version (static) -->
+  <img src="../../_static/figures/F17_O2_mean_trend.png"
+       class="print-only"
+       style="width: 100%; border-radius: 6px;" />
+
+  <!-- Web version (interactive) -->
+  <iframe src="../../_static/figures/F17_O2_mean_trend.html"
+          class="screen-only"
+          style="width: 140%; height: 500px; border: none; border-radius: 6px;">
+  </iframe>
+
+  <figcaption style="font-size: 0.9em; color: #444; margin-top: 0.5em;">
+    <strong>Figure 25.</strong> Change in Subsurface Oxygen from hindcast. The maps (top) show the average (left) and the change (right) in subsurface oxygen concentration (µmol/L) in the vicinity of Palau over the period 1993–2025. The grey line is the Palau EEZ. The line plot (bottom) shows the change in subsurface oxygen concentration (µmol/L) averaged over the area within the top plot. The black line represents the trend, which is statistically significant (p &lt; 0.05).
+  </figcaption>
+
 </figure>
 
 <figure style="text-align: center;">
