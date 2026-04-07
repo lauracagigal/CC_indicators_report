@@ -409,6 +409,14 @@ blockquote {
     display: none !important;
   }
 
+    /* Remove in-page TOC ("Contents") */
+  nav.toc,
+  .toc,
+  .toc-wrapper,
+  .contents {
+    display: none !important;
+  }
+
   /* =========================
      TYPOGRAPHY
   ========================= */
@@ -427,8 +435,8 @@ blockquote {
   ========================= */
 
   /* New page per chapter */
-  h1 {
-    page-break-before: always;
+  h1:not(:first-of-type) {
+  page-break-before: always;
   }
 
   /* Avoid bad breaks */
