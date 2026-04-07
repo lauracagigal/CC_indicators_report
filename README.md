@@ -20,7 +20,7 @@ https://lauracagigal.github.io/CC_indicators_report/
 <br>
 
 <div style="text-align: center;">
-  <img src="_static/figures/logos_noaa_risa.png" width="500">
+  <img src="_static/figures/logos_noaa_risa.png" width="1000">
 </div>
 
 
