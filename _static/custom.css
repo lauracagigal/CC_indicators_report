@@ -377,6 +377,40 @@ blockquote {
    PDF
 ========================= */
 
+/* =========================
+   FIGURE MODES
+========================= */
+
+/* Default (web) */
+.print-only {
+  display: none !important;
+}
+
+.screen-only {
+  display: block;
+}
+
+/* PDF */
+@media print {
+
+  .screen-only {
+    display: none !important;
+  }
+
+  .print-only {
+    display: block !important;
+  }
+
+}
+
+/* Optional note styling */
+.figure-note {
+  font-size: 0.85em;
+  color: #666;
+  margin-top: 0.3em;
+  font-style: italic;
+}
+
 @media print {
 
   /* =========================
@@ -386,16 +420,6 @@ blockquote {
   @page {
     size: A4;
     margin: 2cm 2cm 2.5cm 2cm;
-
-    @top-left {
-      content: "Palau Climate Change Monitor";
-      font-size: 9pt;
-    }
-
-    @bottom-right {
-      content: "Page " counter(page);
-      font-size: 9pt;
-    }
   }
 
   /* =========================

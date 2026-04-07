@@ -58,12 +58,22 @@ Trends differ between daytime highs and nighttime lows (Figure 3).  Annual maxim
 
 
 <figure style="text-align: center; margin: 2em 0;">
+
+  <!-- PDF version (static) -->
+  <img src="../../_static/figures/F3_ST_min_max.png"
+       class="print-only"
+       style="width: 100%; border-radius: 6px;" />
+
+  <!-- Web version (interactive) -->
   <iframe src="../../_static/figures/F3_ST_min_max.html"
+          class="screen-only"
           style="width: 140%; height: 500px; border: none; border-radius: 6px;">
   </iframe>
+
   <figcaption style="font-size: 0.9em; color: #444; margin-top: 0.5em;">
-    <strong>Figure 3.</strong> Annual maximum (red) and minimum (blue) temperature at Koror. The solid black line represents a trend that is statistically significant (p < 0.05).  The dashed black line represents a trend that is not statistically significant.
+    <strong>Figure 3.</strong> Annual maximum (red) and minimum (blue) temperature at Koror. The solid black line represents a trend that is statistically significant (p &lt; 0.05). The dashed black line represents a trend that is not statistically significant.
   </figcaption>
+
 </figure>
 
 
@@ -77,12 +87,22 @@ Other than cooling associated with the strong La Nina early this decade, correla
 At Koror, the average daily maximum temperature over the POR is 31.1°C (88.0°F), and the average daily minimum is 24.4°C (75.9°F).  On June 3, 1976, the maximum temperature reached 35.0°C (95.0°F), the hottest day on record.  The coldest day on record was March 25, 1953, when the minimum temperature reached 20.6°C (69.1°F).
 
 <figure style="text-align: center; margin: 2em 0;">
+
+  <!-- PDF version (static) -->
+  <img src="../../_static/figures/F4_ST_hot_cold.png"
+       class="print-only"
+       style="width: 100%; border-radius: 6px;" />
+
+  <!-- Web version (interactive) -->
   <iframe src="../../_static/figures/F4_ST_hot_cold.html"
+          class="screen-only"
           style="width: 140%; height: 500px; border: none; border-radius: 6px;">
   </iframe>
+
   <figcaption style="font-size: 0.9em; color: #444; margin-top: 0.5em;">
-    <strong>Figure 4.</strong> Annual Number of hot days and cold nights at Koror.  Hot days are defined as days above the 90th percentile for that same calendar day (e.g., January 15th) from the 1960–1990 period, while cold nights are defined as days below the 10th percentile for that same calendar day in the 1960–1990 period. The solid black lines represent statistically significant trends (p < 0.05).  
+    <strong>Figure 4.</strong> Annual Number of hot days and cold nights at Koror. Hot days are defined as days above the 90th percentile for that same calendar day (e.g., January 15th) from the 1960–1990 period, while cold nights are defined as days below the 10th percentile for that same calendar day in the 1960–1990 period. The solid black lines represent statistically significant trends (p &lt; 0.05).
   </figcaption>
+
 </figure>
 
 To track temperature extremes, this report uses the annual number of hot days (days above the 90th percentile) and cold nights (nights below the 10th percentile), computed relative to the 1960–1990 reference period.  The annual average number of hot days in Koror over the POR was 26, with a maximum of 162 in in 1998 and a minimum of 17 in 2021. The annual average number of cold nights in Koror over the POR was 3, with a maximum of (+) 40 nights in in 2000 and a minimum of (-)20 in 2020.  Over the POR, hot days have increased at a statistically significant rate of 1.22 days per year, while cold nights have decreased at a statistically significant rate 0.26 days per year (Figure 4). This corresponds to an increase of 42 more hot days per year in the decade 1961–1971 compared to the decade 2011–2021.  For cool nights, these values have decreased by almost 15 days per year. These decadal averages highlight the practical implication of these trends: recent decades experience substantially more hot days per year and fewer cold nights per year than the earliest decades of the record. Together, these indicators reinforce the finding that Koror is warming in a way that extends the portion of the year (and day) spent at higher temperatures, particularly through warmer nights.
