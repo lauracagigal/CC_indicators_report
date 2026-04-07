@@ -1,9 +1,8 @@
 <h1 align="center">Palau Climate Change Monitor</h1>
 
 
-
 <div style="text-align: center;">
-  <img src="_static/figures/image_palau.jpg" width="700">
+  <img src="_static/figures/image_palau.jpg" width="1000">
 </div>
 
 
