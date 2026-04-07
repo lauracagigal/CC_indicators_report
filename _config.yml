@@ -46,6 +46,16 @@ parse:
     - dollarmath
 sphinx:
   config:
+    html_extrahead: |
+        <script>
+          // FORCE LIGHT MODE (override PyData theme auto mode)
+          try {
+            localStorage.setItem("theme", "light");
+            localStorage.setItem("mode", "light");
+          } catch (e) {}
+
+          document.documentElement.setAttribute("data-theme", "light");
+        </script>
     html_static_path: ["_static"]
     html_js_files:
       - https://cdn.plot.ly/plotly-latest.min.js
@@ -63,12 +73,6 @@ sphinx:
       use_repository_button: true
     html_context:
       default_mode: light
-
-    html_extrahead: |
-      <script>
-        // FORCE LIGHT MODE BEFORE ANYTHING ELSE
-        document.documentElement.setAttribute("data-theme", "light");
-      </script>
       
       
 launch_buttons:
