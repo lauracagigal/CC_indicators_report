@@ -48,7 +48,7 @@ Satellite-derived SST observations also vary at intra and interannual time scale
 
 
 <figure style="text-align: center;">
-  <img src="../../_static/figures/F14_SST_ENSO.png" width="1000">
+  <img src="../../_static/figures/F12_SST_ENSO.png" width="1000">
 <figcaption> <em><strong>Figure 17.</strong> Sea Surface Temperature (SST) from satellite and ENSO state.  The maps show the change in mean SST (°C per decade) in the vicinity of Palau over the period 1981–2024 from the NOAA OISSTv2 satellite under different ENSO states (i.e., La Niña, Neutral, El Niño).  The grey line is the Palau EEZ.</em> </figcaption> </figure>
 
 
