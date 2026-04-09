@@ -18,5 +18,5 @@
 
 
 <figure style="text-align: center;">
-  <img src="../_static/figures/logos_noaa_risa.png" width="500">
+  <img src="../_static/figures/logos_noaa_risa.png" width="900">
 <figcaption> <em>Funding for this work is provided by NOAA RISA and the Department of State under grant number NA24OARX431C0003-T1-01.</em> </figcaption> </figure>
