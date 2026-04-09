@@ -19,4 +19,4 @@
 
 <figure style="text-align: center;">
   <img src="../_static/figures/logos_noaa_risa.png" width="500">
-<figcaption> <em>by NOAA’s Pacific Research on Island Solutions for Adaptation (RISA) program</em> </figcaption> </figure>
+<figcaption> <em>Funding for this work is provided by NOAA RISA and the Department of State under grant number NA24OARX431C0003-T1-01.</em> </figcaption> </figure>
