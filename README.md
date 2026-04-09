@@ -23,7 +23,6 @@ https://lauracagigal.github.io/CC_indicators_report/
   <img src="_static/figures/logos_noaa_risa.png" width="1000">
 </div>
 
-
 <p align="center">
-<em>by NOAA’s Pacific Research on Island Solutions for Adaptation (RISA) program</em><br>
+<em>Funding for this work is provided by NOAA RISA and the Department of State under grant number NA24OARX431C0003-T1-01.</em><br>
 </p>
